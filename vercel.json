@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "cd gdg-event && npm run build",
+  "installCommand": "cd gdg-event && npm install",
+  "outputDirectory": "gdg-event/dist"
+}

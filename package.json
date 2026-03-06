@@ -1,0 +1,8 @@
+{
+  "name": "gdg-event-wrapper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd gdg-event && npm install && npm run build"
+  }
+}
